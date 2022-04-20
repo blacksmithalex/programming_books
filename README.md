@@ -21,4 +21,4 @@ https://www.kaggle.com/thomaskonstantin/top-270-rated-computer-science-programin
 
 #Программы:
 Jupyter Notebook (Python)
-Библиотеки: pandas, pyplot, numpy, seaborn, plotly, nltk
+Библиотеки: pandas, pyplot, numpy, seaborn, nltk
